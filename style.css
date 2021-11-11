@@ -1,0 +1,21 @@
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    background-color: lightcoral;
+}
